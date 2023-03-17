@@ -1,2 +1,3 @@
-# Calculo_Idade_Canina
-Função em JavaScript que tem o objetivo de converter a idade de um cachorro em anos humanos para anos caninos.
+<h3 align = center> Calculo da Idade Canina </h3>
+
+Descubra a idade do seu cão em anos caninos.
